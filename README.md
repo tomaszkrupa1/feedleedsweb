@@ -51,3 +51,6 @@ IN THE NEAR FUTURE - I NEED to update the information on the Home page, insert n
 
 - Update Icon
 - Update Title Page
+- Make Home Text Bigger
+- Make the Donate button orange on hover
+- Make the Home image darker
