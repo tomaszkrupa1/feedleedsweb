@@ -34,7 +34,6 @@ I have gained confidence in using
 - Styling
 - Responsive design for Mobile Use
 - Props
--
 
 ### If I had more time
 
@@ -45,3 +44,6 @@ I would also like to have populated the website with more information in the rem
 I would also like to learn front-end testing, in order to make sure future builds for bigger important projects are stable and perform correctly.
 
 IN THE NEAR FUTURE - I NEED to update the information on the Home page, insert new images, and type in some sample data.
+
+- Update Icon
+- Update Title Page
